@@ -1,0 +1,23 @@
+.jumbotron {
+  background-color: cornflowerblue;
+}
+.about {
+}
+.projects {
+  background-color: cornflowerblue;
+}
+.contact {
+  font-family: "Times New Roman", Times, serif;
+}
+.myContact {
+  font-family: "Times New Roman", Times, serif;
+  border-style: solid;
+  max-width: 50%;
+  margin: auto;
+}
+.credit {
+  background-color: #6495ed;
+}
+section {
+  padding-top: 5rem;
+}
